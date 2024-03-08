@@ -1,3 +1,5 @@
+![banner](https://res.cloudinary.com/df9wzeghp/image/upload/v1709900343/Black_Colorful_Simple_Futuristic_Linkedin_Banner_xur3xi.png)
+
 # Hello! 👋👋
 
 I'm _Amit Sharma_, a committed **Full Stack Developer** with a focus on **JavaScript/TypeScript** 💻 and the corresponding runtimes. I have a strong expertise in startups and have led the creation of applications from their birth utilising state-of-the-art online technology. By constantly experimenting with new technologies, I hope to improve the experiences of developers and end users. As a devoted fan of productivity, I'm dedicated to streamlining procedures and workflows to increase my efficacy as a developer.
