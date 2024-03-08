@@ -30,6 +30,10 @@ I'm _Amit Sharma_, a committed **Full Stack Developer** with a focus on **JavaSc
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
+## NPM PACKAGES
+
+* Copy your content and store all previous copied content using local storage: [codemen-clipboard](https://github.com/iamamitshrma/codemen-clipboard)
+
 
 ### 🎊 Few of my awesome projects:
 - WithGPTPrompt - All your prompts [(link)](https://withgptprompt.vercel.app/)
