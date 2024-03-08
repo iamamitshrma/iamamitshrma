@@ -35,7 +35,8 @@ I'm _Amit Sharma_, a committed **Full Stack Developer** with a focus on **JavaSc
 * Copy your content and store all previous copied content using local storage: [codemen-clipboard](https://github.com/iamamitshrma/codemen-clipboard)
 
 
-### 🎊 Few of my awesome projects:
+## PROJECTS
+
 - WithGPTPrompt - All your prompts [(link)](https://withgptprompt.vercel.app/)
 
  <p align="center">
