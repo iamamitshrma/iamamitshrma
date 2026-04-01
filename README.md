@@ -1,51 +1,142 @@
 ![banner](https://res.cloudinary.com/df9wzeghp/image/upload/v1709900343/Black_Colorful_Simple_Futuristic_Linkedin_Banner_xur3xi.png)
 
-# Hello! 👋👋
+# Hey there! 👋
 
-I'm _Amit Sharma_, a committed **Full Stack Developer** with a focus on **JavaScript/TypeScript** 💻 and the corresponding runtimes. I have a strong expertise in startups and have led the creation of applications from their birth utilising state-of-the-art online technology. By constantly experimenting with new technologies, I hope to improve the experiences of developers and end users. As a devoted fan of productivity, I'm dedicated to streamlining procedures and workflows to increase my efficacy as a developer.
+I'm **Amit Sharma**, a **Senior Full Stack Developer** with 3+ years of experience building scalable, high-performance web applications.
 
-### 🌟 Technologies I've worked with:
+💡 I specialize in **JavaScript / TypeScript ecosystems** and love building products from **0 → 1**, especially in startup environments.
 
-- React
+⚡ I focus on:
+- Performance optimization (reduced load times by 35%)
+- Scalable architecture (serving 2000+ users)
+- AI-powered features (OpenAI integrations)
+- Developer productivity & system efficiency
+
+---
+
+## 🧠 What I Bring
+
+- 🚀 Built & scaled production apps with **real users**
+- ⚡ Reduced API latency & improved performance significantly
+- 🔐 Designed secure systems using **JWT & OAuth**
+- 📈 Improved test coverage by 20% (SonarQube)
+- 👨‍🏫 Mentored developers & improved team productivity
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Frontend
+- React.js
 - Next.js
 - React Native
-- Redux
-- HTML/CSS
+- Redux / Redux Toolkit
+- HTML5 / CSS3 / Tailwind
+
+### ⚙️ Backend
 - Node.js
 - Express.js
-- MongoDB
-- Firebase
+- NestJS
+- REST APIs
 
-<p align="left">
-<a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nodejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank">
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> </a>
-</a> <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://w7.pngwing.com/pngs/63/19/png-transparent-mongodb-database-nosql-postgresql-mongo-text-logo-business-thumbnail.png" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" alt="mysql" width="40" height="40"/> </a>
+### 🗄️ Database
+- MongoDB
+- MySQL
+- PostgreSQL
+
+### 🧰 Tools & DevOps
+- Git & GitHub
+- AWS S3
+- Postman
+- JIRA / Trello
+- SonarQube
+
+---
+
+## 🔥 Featured Projects
+
+### 🚀 HireSage (AI Hiring Platform)
+- AI-based interview system (OpenAI)
+- Reduced hiring time by **15%**
+- Automated JD generation → **40% less recruiter effort**
+
+---
+
+### 🏢 AMP Memberships
+- Built dashboards, kiosk modules, analytics
+- Optimized DB queries → **25% faster performance**
+- Real-time reporting system
+
+---
+
+### 🔐 NoPorts (Atsign)
+- Security-first architecture with digital identities
+- Integrated Stripe & PayPal payments
+- Admin dashboards with real-time insights
+
+---
+
+### 📚 Sustainable Discipleship Platform
+- Designed scalable backend modules
+- Improved engagement by **40%**
+- Reduced API latency by **20%**
+
+---
+
+### 📱 Vyap (B2B Mobile App)
+- React Native-based ordering system
+- Cashfree integration → faster transactions
+- Smooth & responsive UI
+
+---
+
+## 🌐 Personal Projects
+
+### 🏍️ Ride On Bike Landing Page
+🔗 https://ride-on-bike-landing.vercel.app/
+
+- Modern landing page design
+- Clean UI/UX with responsive layout
+- Built for product showcasing & branding
+
+---
+
+### 🤖 WithGPTPrompt
+🔗 https://withgptprompt.vercel.app/
+
+- Store & manage AI prompts
+- Built for developers & creators
+- Focused on productivity
+
+---
+
+## 📦 NPM Packages
+
+### 📋 codemen-clipboard
+🔗 https://github.com/iamamitshrma/codemen-clipboard
+
+- Copy & store clipboard history
+- Built using local storage
+- Developer productivity tool
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamamitshrma&theme=blue-green&hide_border=true" />
 </p>
 
-## NPM PACKAGES
+---
 
-* Copy your content and store all previous copied content using local storage: [codemen-clipboard](https://github.com/iamamitshrma/codemen-clipboard)
+## 📫 Let's Connect
 
+- 💼 LinkedIn: https://linkedin.com/in/amit-sharma-b32171143  
+- 📧 Email: dev.amitsharma@hotmail.com  
+- 🐙 GitHub: https://github.com/iamamitshrma  
 
-## PROJECTS
+---
 
-- WithGPTPrompt - All your prompts [(link)](https://withgptprompt.vercel.app/)
+## ⚡ Fun Fact
 
- <p align="center">
-    <table>
-    <h1 align="center">Github Stats</h1>
-      <tr>
-         <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iamamitshrma&theme=blue-green&hide_border=true"></td>
-      </tr>
-    </table>
- </p>
+I love building systems that **save time, scale fast, and actually solve real-world problems** — especially in **AI + SaaS space**.
