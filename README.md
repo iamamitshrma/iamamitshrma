@@ -7,8 +7,8 @@ I'm **Amit Sharma**, a **Senior Full Stack Developer** with 3+ years of experien
 💡 I specialize in **JavaScript / TypeScript ecosystems** and love building products from **0 → 1**, especially in startup environments.
 
 ⚡ I focus on:
-- Performance optimization (reduced load times by 35%)
-- Scalable architecture (serving 2000+ users)
+- Performance optimization (reduced load times)
+- Scalable architecture (serving good amounts of users)
 - AI-powered features (OpenAI integrations)
 - Developer productivity & system efficiency
 
@@ -55,21 +55,25 @@ I'm **Amit Sharma**, a **Senior Full Stack Developer** with 3+ years of experien
 
 ## 🔥 Featured Projects
 
-### 🚀 HireSage (AI Hiring Platform)
-- AI-based interview system (OpenAI)
-- Reduced hiring time by **15%**
-- Automated JD generation → **40% less recruiter effort**
-
----
-
 ### 🏢 AMP Memberships
+- Collaborating closely with the team on ongoing product development and delivery
+- Actively contributing to daily sprint planning, execution, and task completion
 - Built dashboards, kiosk modules, analytics
 - Optimized DB queries → **25% faster performance**
 - Real-time reporting system
 
 ---
 
+### 🚀 HireSage (AI Hiring Platform)
+- Developed from scratch using Nextjs + Django
+- AI-based interview system (OpenAI)
+- Reduced hiring time by **15%**
+- Automated JD generation → **40% less recruiter effort**
+
+---
+
 ### 🔐 NoPorts (Atsign)
+- Designed system architecture and developed the complete application from scratch using React and Express.js
 - Security-first architecture with digital identities
 - Integrated Stripe & PayPal payments
 - Admin dashboards with real-time insights
@@ -77,6 +81,7 @@ I'm **Amit Sharma**, a **Senior Full Stack Developer** with 3+ years of experien
 ---
 
 ### 📚 Sustainable Discipleship Platform
+- Designed system architecture and developed the complete application from scratch using React and Express.js
 - Designed scalable backend modules
 - Improved engagement by **40%**
 - Reduced API latency by **20%**
@@ -84,6 +89,7 @@ I'm **Amit Sharma**, a **Senior Full Stack Developer** with 3+ years of experien
 ---
 
 ### 📱 Vyap (B2B Mobile App)
+- Collaborated with client directly for developing new features in the app
 - React Native-based ordering system
 - Cashfree integration → faster transactions
 - Smooth & responsive UI
